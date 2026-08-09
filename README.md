@@ -18,14 +18,20 @@ Built for a real use case: one CR juggling 6–8 courses, each with a different 
 <!-- Replace these with real screenshots before publishing -->
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/login.png" width="220" alt="Login screen" /><br><sub>Login</sub></td>
-    <td align="center"><img src="docs/screenshots/dashboard.png" width="220" alt="Dashboard" /><br><sub>Dashboard</sub></td>
-    <td align="center"><img src="docs/screenshots/attendance.png" width="220" alt="Attendance screen" /><br><sub>Attendance</sub></td>
+    <td align="center"><img width="319" height="526" alt="image" src="https://github.com/user-attachments/assets/8b42aba1-9c91-4814-a96a-ef48db174e22" />
+<br><sub>Login</sub></td>
+    <td align="center"><img width="318" height="539" alt="image" src="https://github.com/user-attachments/assets/313d627a-142d-4073-94ac-ef1dcb8d9495" />
+<br><sub>Dashboard</sub></td>
+    <td align="center"><img width="320" height="536" alt="image" src="https://github.com/user-attachments/assets/1d1b8d23-3bef-4b89-bfa5-eab99a57bee8" />
+<br><sub>Attendance</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/marks.png" width="220" alt="Marks screen" /><br><sub>Quiz Marks</sub></td>
-    <td align="center"><img src="docs/screenshots/groups.png" width="220" alt="Project groups screen" /><br><sub>Project Groups</sub></td>
-    <td align="center"><img src="docs/screenshots/tasks.png" width="220" alt="Tasks screen" /><br><sub>Task Tracker</sub></td>
+    <td align="center"><img width="320" height="536" alt="image" src="https://github.com/user-attachments/assets/f4373889-3acb-4c4a-a2b7-0e5e88c856e5" />
+<br><sub>Quiz Marks</sub></td>
+    <td align="center"><img width="322" height="539" alt="image" src="https://github.com/user-attachments/assets/f9cefde9-aed0-4fb6-ace4-5aef6f0aada9" />
+<br><sub>Project Groups</sub></td>
+    <td align="center"><img width="317" height="538" alt="image" src="https://github.com/user-attachments/assets/778a9e31-1062-482d-9491-b0323e61c309" />
+<br><sub>Task Tracker</sub></td>
   </tr>
 </table>
 
@@ -104,7 +110,7 @@ cr_portal/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/cr-portal.git
+git clone https://github.com/IbrahimUsman056/CR-Management-System
 cd cr-portal
 ```
 
@@ -130,12 +136,6 @@ to create your first CR account.
 ## 🔑 Demo
 
 <!-- Add live demo link and/or demo credentials once deployed -->
-- **Live demo:** _add link here_
-- **Demo login:** _add credentials here, if you want a public read-only-style demo_
+- **Live demo:** cr-portal.infinityfreeapp.com
 
 ---
-
-## 📄 License
-
-<!-- Add a license if you want this public, e.g. MIT -->
-This project is currently unlicensed. Add a `LICENSE` file if you intend to open it up for reuse.
